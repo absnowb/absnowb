@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @absnowb
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning AI tools
+- 💞️ I’m looking to collaborate on open source project
+- ⚡ Fun fact: @absnowb not a my real name)
